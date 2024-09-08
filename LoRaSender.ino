@@ -14,8 +14,3 @@ void loop() {
   Serial.printf("%08X\r\n",(uint32_t)chipId);//print Low 4bytes.
   delay(3000);
 }
-
-
-// E87899C964EC
-// 887899C964EC
-// 4C8199C964EC
