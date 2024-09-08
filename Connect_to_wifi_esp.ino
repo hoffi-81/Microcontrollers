@@ -1,8 +1,8 @@
 #include <WiFi.h>
 
 // Replace with your own network credentials
-const char* ssid = "bibi";
-const char* password = "40623745482941825812";
+const char* ssid = "";
+const char* password = "";
 const int ledPin = 2;
 
 
